@@ -33,3 +33,5 @@ Automated web-based data retrieval ensures up-to-date datasets for ongoing analy
     Store-level segmentation and holiday uplift analysis revealed key performance drivers and opportunity areas.
 - **Scenario Forecasting:**  
     Delivered a “next 4 weeks” forecast to demonstrate real-world demand planning capability.
+
+  - Walmart Sales Analysis (Python) [**https://github.com/movet306/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Forecasting%20(1).ipynb)

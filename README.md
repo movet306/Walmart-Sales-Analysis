@@ -36,3 +36,7 @@ Automated web-based data retrieval ensures up-to-date datasets for ongoing analy
 
   - [Walmart Sales Analysis (Python) - Jupyter Notebook](https://github.com/movet306/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Forecasting%20(1).ipynb)
 
+## Project Owner
+
+**Mert Ovet**  
+[LinkedIn: linkedin.com/in/mertovet](https://www.linkedin.com/in/mertovet)

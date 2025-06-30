@@ -34,7 +34,7 @@ Automated web-based data retrieval ensures up-to-date datasets for ongoing analy
 - **Scenario Forecasting:**  
     Delivered a “next 4 weeks” forecast to demonstrate real-world demand planning capability.
 
-  - [Walmart Sales Analysis (Python) - Jupyter Notebook](https://github.com/movet306/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Forecasting%20(1).ipynb)
+  - [Walmart Sales Analysis (Python) - Jupyter Notebook](https://github.com/movet306/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Forecasting-Mert_Ovet.ipynb)
 
 ## Project Owner
 
